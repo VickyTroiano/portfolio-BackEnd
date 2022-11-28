@@ -4,4 +4,11 @@ const deportistas= {
     champions: 4
 };
 
-console.log("Hola")
+console.log(deportistas);
+
+var alumnos = {
+    nombreAlumno: 'Martina',
+    anioMatriculacion : 2009
+}
+
+console.log(alumnos);
