@@ -12,3 +12,4 @@ var alumnos = {
 }
 
 console.log(alumnos);
+console.log(JSON.stringify(alumnos));
